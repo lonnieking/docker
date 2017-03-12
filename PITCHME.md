@@ -2,28 +2,28 @@
 
 ---
 
-# What is it?
-# How do you use it?
-# Why should you use it?
+### What is it?
+### How do you use it?
+### Why should you use it?
 
 ---
 
-# 🐳 images / containers
+### 🐳 images / containers
 - docker hub
 - running images
 - creating images
 
 ---
 
-# 🐳 compose
+### 🐳 compose
 - an example...
 
 ---
 
-# What does it mean?
+### What does it mean?
 - continuous improvement via docker image deploy
 - quality via production image debugging
 
 ---
 
-# Questions?
+## Questions?
